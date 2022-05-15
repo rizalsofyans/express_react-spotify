@@ -1,0 +1,19 @@
+{
+    "name": "express_react-spotify",
+    "version": "1.0.0",
+    "author": "Rizal Sofyan",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1"
+    },
+    "scripts": {
+        "dev": "nodemon index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.16"
+    }
+}
